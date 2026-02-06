@@ -58,4 +58,4 @@ float32[] scores
     - Range: `[0.0, 1.0]`  
 
 ## Example
-Example is used in [this link]()
+Example is used in [this link](https://github.com/SanghyunPark01/sam3_ros_wrapper?tab=readme-ov-file#example-usage)
